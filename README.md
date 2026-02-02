@@ -3,6 +3,7 @@ Aider une entreprise de télécommunications à obtenir des insights sur les ten
 La mission consistait à créer un tableau de bord Power BI regroupant les principaux indicateurs de performance (KPIs) et métriques du dataset. 
 
 🚀 𝐄́𝐭𝐚𝐩𝐞𝐬 𝐫𝐞́𝐚𝐥𝐢𝐬𝐞́𝐞𝐬 : 
+
 1️⃣ Compréhension et préparation des données
 - Vérification des doublons 
 - Contrôle de la cohérence globale 
