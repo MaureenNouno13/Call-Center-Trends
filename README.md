@@ -14,9 +14,8 @@ La mission consistait à créer un tableau de bord Power BI regroupant les princ
 2️⃣ Création du tableau de bord 
 Conception de deux vues principales : 
 - 𝑉𝑢𝑒 𝑔𝑙𝑜𝑏𝑎𝑙𝑒 : centrée sur les tendances et la satisfaction client
-- 𝑉𝑢𝑒 𝑎𝑔𝑒𝑛𝑡 : axée sur la performance des agents
-
 <img width="1192" height="673" alt="image" src="https://github.com/user-attachments/assets/bc5e5e66-809c-4c5c-91eb-76d251c7e113" />
+- 𝑉𝑢𝑒 𝑎𝑔𝑒𝑛𝑡 : axée sur la performance des agents
 <img width="1186" height="664" alt="image" src="https://github.com/user-attachments/assets/4aceceea-2196-4ba1-bf00-a133f59f5ea9" />
 
 
