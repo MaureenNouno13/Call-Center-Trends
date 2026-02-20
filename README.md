@@ -1,3 +1,5 @@
+<h2> Projet RH Analytics – SQL (PostgreSQL) </h2>
+
 🎯 𝐎𝐛𝐣𝐞𝐜𝐭𝐢𝐟 𝐝𝐮 𝐩𝐫𝐨𝐣𝐞𝐭 :
 Aider une entreprise de télécommunications à obtenir des insights sur les tendances de son centre d’appels. 
 La mission consistait à créer un tableau de bord Power BI regroupant les principaux indicateurs de performance (KPIs) et métriques du dataset. 
